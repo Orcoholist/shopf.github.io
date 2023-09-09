@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02856344.css",
+    "main.js": "/static/js/main.d6bf7a73.js",
+    "static/media/header-img.jpg": "/static/media/header-img.3266b145a803ea6064bc.jpg",
+    "static/media/cat-03.jpg": "/static/media/cat-03.eb55f780a8fbbaf39b98.jpg",
+    "static/media/cat-01.jpg": "/static/media/cat-01.c4e2270f3eab9f7477cf.jpg",
+    "static/media/cat-02.jpg": "/static/media/cat-02.da44a5e6d64780d948d6.jpg",
+    "static/media/Shopify.png": "/static/media/Shopify.b4131342ebf309c24258.png",
+    "static/media/Amazon.png": "/static/media/Amazon.7897112af9316cea076c.png",
+    "static/media/logo.svg": "/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/decor-yellow.svg": "/static/media/decor-yellow.a14a51327547871fd595.svg",
+    "main.02856344.css.map": "/static/css/main.02856344.css.map",
+    "main.d6bf7a73.js.map": "/static/js/main.d6bf7a73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02856344.css",
+    "static/js/main.d6bf7a73.js"
+  ]
+}
